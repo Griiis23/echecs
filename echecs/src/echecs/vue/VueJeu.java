@@ -152,7 +152,7 @@ public class VueJeu extends JFrame implements EchecsEventListener {
         //Barre de Menu
         JMenuBar menuBar=new JMenuBar();
         
-        JMenu menu=new JMenu("Jeu");
+        JMenu menu=new JMenu("Fichier");
                
         JMenuItem item = new JMenuItem("Sauvegarder");
         item.setActionCommand("save");

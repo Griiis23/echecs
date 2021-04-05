@@ -71,11 +71,10 @@ public class ControllerMenu implements ActionListener {
         else if(e.getActionCommand() == "defi") {
             // On tente de lire le fichier XML
             try {
-                File file = new File(getClass().getResource("/res/defi.xml").getFile());
                 
                 DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
                 DocumentBuilder builder = factory.newDocumentBuilder();
-                Document doc = builder.parse(file);
+                Document doc = builder.parse(getClass().getResourceAsStream("/res/defi.xml"));
                 
                 //On lit les défis
                 NodeList defis = doc.getElementsByTagName("defi");
