@@ -1,0 +1,103 @@
+<defis>
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>6k1/5ppp/8/8/8/7P/r4PP1/1R4K1</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>1k6/ppp5/8/2r5/4Q3/7b/3PPP2/1R2K3</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>3Q2r1/8/k1K1B3/8/8/8/8/8</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>8/8/4N3/6pk/6r1/3Q4/8/4K3</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>1k6/2pp3q/4n3/8/8/4P3/3PK3/R4R1B</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>7k/8/5N2/r1b/8/8/8/4K1R1</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>4k3/R7/8/4pB2/1P3pp1/1nP2q2/7R/4K3</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>r4rk1/5p1p/8/8/4N3/6B1/8/4K1R1</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les blancs jouent et matent en 1 coup</message>
+		<plateau>r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR</plateau>
+		<tour>w</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>4k3/3pp1q1/8/8/1n3Q2/8/PP1n4/KR6</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>4k3/1b1r4/8/8/1Bp5/RpP3R1/1P5K/2r5</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>6k1/5pp1/3q4/8/6n1/5N2/6PP/2R3RK</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>8/5b1P/1B4q1/8/4R2R/1p6/2k5/K7</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>8/2b3P1/7r/8/6R1/4k3/1p4R1/4K3</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>8/1b6/8/8/R5n1/5k2/8/7K</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR</plateau>
+		<tour>b</tour>
+	</defi>
+	
+	<defi>
+		<message>Les noirs jouent et matent en 1 coup</message>
+		<plateau>5k2/1b6/8/3r4/3R4/8/8/6BK</plateau>
+		<tour>b</tour>
+	</defi>
+</defis>
